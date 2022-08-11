@@ -6,6 +6,8 @@
   - <b>HTML</b>
   - <b>CSS</b>
   - <b>Vanilla JS</b>
+  - <b>Api</b>
+  - <b>Fetch</b>
 
 
 
