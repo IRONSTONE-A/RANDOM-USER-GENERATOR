@@ -1,6 +1,6 @@
 # RANDOM-USER-GENERATOR
 
-# :point_right: [Click here to see on browser](https://sass-project-beige.vercel.app/)
+# :point_right: [Click here to see on browser](https://random-user-generator-ten.vercel.app/)
 
 ### I used;
   - <b>HTML</b>
